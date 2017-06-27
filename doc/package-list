@@ -1,0 +1,7 @@
+fr.imie.suptodo.dao
+fr.imie.suptodo.gui
+fr.imie.suptodo.gui.model
+fr.imie.suptodo.jdbc
+fr.imie.suptodo.launcher
+fr.imie.suptodo.model
+fr.imie.suptodo.utils
